@@ -8,6 +8,6 @@
 # corresponding provider blocks in configuration
 provider "google" {
   # version = "~> 3.77.0"
-  project = "nodejs-demo-319000"
-  region  = "us-central1-c"
+  project = "bigdatatest2-airflow"
+  region  = "us-central1"
 }
